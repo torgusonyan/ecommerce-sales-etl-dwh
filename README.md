@@ -30,7 +30,9 @@ this kind of question.
 
 ## 🏗️ Pipeline Architecture
 
-![ETL Pipeline Architecture](docs/pipeline-architecture.png)
+<p align="center">
+  <img src="docs/pipeline-architecture.png" alt="ETL Pipeline Architecture" width="800">
+</p>
 
 1. **Extract** — Query the required columns from the public BigQuery dataset
    `bigquery-public-data.thelook_ecommerce` and export them as local CSV staging
@@ -50,7 +52,9 @@ this kind of question.
 
 A central fact table references two dimension tables.
 
-![Star Schema ERD](ERD_scheme.png)
+<p align="center">
+  <img src="ERD_scheme.png" alt="Star Schema ERD" width="720">
+</p>
 
 **`fact_sales`** — grain: one row per completed order line item
 
