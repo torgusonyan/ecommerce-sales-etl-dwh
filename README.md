@@ -53,7 +53,7 @@ this kind of question.
 A central fact table references two dimension tables.
 
 <p align="center">
-  <img src="ERD_scheme.png" alt="Star Schema ERD" width="720">
+  <img src="ERD_scheme.png" alt="Star Schema ERD" width="800">
 </p>
 
 **`fact_sales`** — grain: one row per completed order line item
