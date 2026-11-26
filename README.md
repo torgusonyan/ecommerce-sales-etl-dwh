@@ -5,7 +5,7 @@ data warehouse for **The Look**, a fictional e-commerce clothing retailer. Raw
 transactional data is extracted from Google BigQuery, cleaned and reshaped with
 PySpark, and loaded into a PostgreSQL data warehouse modeled for sales analytics.
 
-**Author:** Ryan Farid Pratama
+**Author:** Ryan Farid Pratama <br>
 **Tech Stack:** Python · PySpark · Google BigQuery · PostgreSQL · SQL
 
 > **Scope:** This project covers the data engineering pipeline (extraction,
