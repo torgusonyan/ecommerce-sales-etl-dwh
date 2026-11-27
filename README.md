@@ -13,6 +13,9 @@ PySpark, and loaded into a PostgreSQL data warehouse modeled for sales analytics
 > explains *why* the warehouse is modeled the way it is; downstream analytical
 > querying is out of scope.
 
+**Presentation (Google Slides):**
+[The Look — ETL Pipeline & Data Warehouse](https://docs.google.com/presentation/d/1PadFn-eaaY8wAZoK1A5azANObLGVlsKU/edit?usp=sharing&ouid=111269027971600279535&rtpof=true&sd=true)
+
 ---
 
 ## A. Business Context
